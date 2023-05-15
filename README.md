@@ -1,6 +1,6 @@
 # CryptoGraphix 🚀
 
-Welcome to [CryptoGraphix](https://www.cryptographix.vercel.app)! 🌟
+Welcome to [CryptoGraphix](https://cryptographix.vercel.app)! 🌟
 
 CryptoGraphix is a powerful and user-friendly cryptocurrency exchange and coin information platform. It allows you to explore the exciting world of cryptocurrencies, access real-time data, visualize trends with interactive graphs, and make informed decisions for your crypto investments.
 

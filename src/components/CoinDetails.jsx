@@ -16,7 +16,7 @@ export default function CoinDetails() {
 
   const currencySymbol = currency === "inr" ? "₹" : currency === 'eur' ? "€" : "$";
   const params = useParams();
-  const btns = ['24H','7D','14D','30D','60D','200D','365D','MAX'];
+  const btns = ['24H','7D','14D','30D','60D','200D','365D'];
 
   const changeChart = (item) => {
     setLoading(true);
